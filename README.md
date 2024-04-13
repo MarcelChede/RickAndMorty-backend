@@ -1,6 +1,6 @@
 Rick and Morty API - Flask Backend
 
-    This project is a Flask backend to provide a RESTful API for accessing information about characters from the Rick and Morty universe.
+This project is a Flask backend to provide a RESTful API for accessing information about characters from the Rick and Morty universe.
 
 Project Structure
     - app.py: Main file of the Flask application
